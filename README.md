@@ -1,4 +1,4 @@
-Klaus is a fully local, bilingual(sometimmes) AI assistant built with Python, Gradio, and Ollama. 
+Klaus is a fully local, bilingual(English and German) AI assistant built with Python, Gradio, and Ollama. 
 
 Features
 
